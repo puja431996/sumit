@@ -1,0 +1,6 @@
+gunicorn
+requests
+geocoder
+geopy
+flask
+flask_cors
